@@ -1,0 +1,60 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6fe989ba-667a-4549-8bb9-a130130dcd4b")
+	(paper "A4")
+	(title_block
+		(title "${TITLE}")
+		(date "2025-01-04")
+		(rev "${REVISION}")
+		(comment 1 "${AUTHOR}")
+	)
+	(lib_symbols)
+	(hierarchical_label "SCL"
+		(shape input)
+		(at 128.905 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "223908f0-d550-4e0a-a596-af7617f52083")
+		(property "Netclass" "digital"
+			(at 128.905 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 128.905 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2f515a6c-5ae4-46e4-9992-b64a92d690ae")
+		(property "Netclass" "digital"
+			(at 128.905 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+)
