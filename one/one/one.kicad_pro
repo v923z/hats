@@ -743,7 +743,8 @@
   ],
   "text_variables": {
     "AUTHOR": "A. Vörös, Z. Vörös",
+    "LINK": "github.com/v923z/hats",
     "REVISION": "1.0.0",
-    "TITLE": "RPi analogue IO hat"
+    "TITLE": "Hat One"
   }
 }

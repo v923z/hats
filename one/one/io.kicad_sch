@@ -8,7 +8,6 @@
 		(title "${TITLE}")
 		(date "2025-01-04")
 		(rev "${REVISION}")
-		(comment 1 "${AUTHOR}")
 	)
 	(lib_symbols
 		(symbol "Device:D_Dual_CommonCathode_AAK_Parallel"
@@ -3176,7 +3175,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rpi:TSOT-23-5-mirrored"
+		(property "Footprint" "hats:TSOT-23-5-mirrored"
 			(at 217.17 94.361 0)
 			(effects
 				(font

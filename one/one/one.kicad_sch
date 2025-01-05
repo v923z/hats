@@ -8,6 +8,7 @@
 		(title "${TITLE}")
 		(date "2025-01-04")
 		(rev "${REVISION}")
+		(company "${LINK}")
 		(comment 1 "${AUTHOR}")
 	)
 	(lib_symbols
@@ -3294,7 +3295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rpi:SJ-252X"
+		(property "Footprint" "hats:SJ-252X"
 			(at 163.83 115.57 0)
 			(effects
 				(font
@@ -3320,42 +3321,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source1" "https://www.digikey.de/product-detail/de/cui-inc/SJ-2523-SMT-TR/CP-2523SJCT-ND/669702"
-			(at 163.83 106.045 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source2" "~"
-			(at 163.83 106.045 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" "~"
-			(at 163.83 106.045 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Critical" "~"
-			(at 163.83 106.045 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "SJ-2523-SMT-TR"
 			(at 163.83 106.045 0)
 			(effects
@@ -3365,16 +3330,25 @@
 				(hide yes)
 			)
 		)
-		(property "Price (EUR)" "0.85"
+		(property "Digikey" "https://www.digikey.de/product-detail/de/cui-inc/SJ-2523-SMT-TR/CP-2523SJCT-ND/669702"
 			(at 163.83 106.045 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 				(hide yes)
 			)
 		)
-		(property "Price100 (EUR)" "0.65"
+		(property "Mouser" "~"
+			(at 163.83 106.045 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.85"
 			(at 163.83 106.045 0)
 			(effects
 				(font
@@ -5195,7 +5169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rpi:SJ-252X"
+		(property "Footprint" "hats:SJ-252X"
 			(at 163.83 102.235 0)
 			(effects
 				(font
@@ -5221,42 +5195,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source1" "https://www.digikey.de/product-detail/de/cui-inc/SJ-2523-SMT-TR/CP-2523SJCT-ND/669702"
-			(at 163.83 92.71 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source2" "~"
-			(at 163.83 92.71 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" "~"
-			(at 163.83 92.71 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Critical" "~"
-			(at 163.83 92.71 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "SJ-2523-SMT-TR"
 			(at 163.83 92.71 0)
 			(effects
@@ -5266,16 +5204,25 @@
 				(hide yes)
 			)
 		)
-		(property "Price (EUR)" "0.85"
+		(property "Digikey" "https://www.digikey.de/product-detail/de/cui-inc/SJ-2523-SMT-TR/CP-2523SJCT-ND/669702"
 			(at 163.83 92.71 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 				(hide yes)
 			)
 		)
-		(property "Price100 (EUR)" "0.65"
+		(property "Mouser" "~"
+			(at 163.83 92.71 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.85"
 			(at 163.83 92.71 0)
 			(effects
 				(font
@@ -5341,7 +5288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rpi:SJ-3524"
+		(property "Footprint" "hatsi:SJ-3524"
 			(at 163.83 111.76 0)
 			(effects
 				(font
@@ -5367,42 +5314,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source1" "https://www.digikey.de/product-detail/de/cui-inc/SJ-3524-SMT-TR-PI/CP-3524SJPICT-ND/2296006"
-			(at 163.83 121.285 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source2" "~"
-			(at 163.83 121.285 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" "~"
-			(at 163.83 121.285 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Critical" "~"
-			(at 163.83 121.285 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "SJ-3524-SMT-TR-PI"
 			(at 163.83 121.285 0)
 			(effects
@@ -5412,16 +5323,25 @@
 				(hide yes)
 			)
 		)
-		(property "Price (EUR)" "1.07"
+		(property "Digikey" "https://www.digikey.de/product-detail/de/cui-inc/SJ-3524-SMT-TR-PI/CP-3524SJPICT-ND/2296006"
 			(at 163.83 121.285 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 				(hide yes)
 			)
 		)
-		(property "Price100 (EUR)" "0.81"
+		(property "Mouser" "~"
+			(at 163.83 121.285 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "1.07"
 			(at 163.83 121.285 0)
 			(effects
 				(font
@@ -5744,7 +5664,7 @@
 			(uuid "1c907a12-e882-47e7-b6f5-93295f409a31")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "9")
 				)
@@ -5862,7 +5782,7 @@
 			(uuid "54ed8b1c-0367-4388-978e-30b391785b97")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "3")
 				)
@@ -5900,7 +5820,7 @@
 			)
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "8")
 				)
@@ -6058,7 +5978,7 @@
 			(uuid "ab3a7872-1e06-4bc6-8b80-a694a6ae19d4")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "7")
 				)
@@ -6116,7 +6036,7 @@
 			(uuid "64bb06cb-f018-4f62-aaac-a11da20d68f2")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "6")
 				)
@@ -6300,7 +6220,7 @@
 			(uuid "e29708e2-b0ab-4e62-aae3-4126fe7899c3")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "10")
 				)
@@ -6408,7 +6328,7 @@
 			(uuid "3c636a65-094e-4920-b00a-c68eb5912d63")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "4")
 				)
@@ -6706,7 +6626,7 @@
 			(uuid "ad60eec2-1f85-4104-be93-5354cf198a03")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "2")
 				)
@@ -6784,7 +6704,7 @@
 			(uuid "1d5d236d-3563-4093-a1d8-4be4d2815ea1")
 		)
 		(instances
-			(project "analogue"
+			(project "one"
 				(path "/ed16f909-220f-4714-ae8c-981e375876e1"
 					(page "5")
 				)

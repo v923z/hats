@@ -8,7 +8,6 @@
 		(title "${TITLE}")
 		(date "2025-01-04")
 		(rev "${REVISION}")
-		(comment 1 "${AUTHOR}")
 	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack_MountingPin"
@@ -2051,7 +2050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rpi:CUI-PJ-018"
+		(property "Footprint" "hats:CUI-PJ-018"
 			(at 95.25 86.36 0)
 			(effects
 				(font
@@ -2077,42 +2076,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source1" "https://www.digikey.de/de/products/detail/cui-devices/PJ-018/1644612"
-			(at 94.615 94.615 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source2" "~"
-			(at 94.615 94.615 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" "~"
-			(at 94.615 94.615 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Critical" "~"
-			(at 94.615 94.615 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "PJ-018"
 			(at 94.615 94.615 0)
 			(effects
@@ -2122,7 +2085,25 @@
 				(hide yes)
 			)
 		)
-		(property "Price (EUR)" "0.58"
+		(property "Digikey" "https://www.digikey.de/de/products/detail/cui-devices/PJ-018/1644612"
+			(at 94.615 94.615 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "~"
+			(at 94.615 94.615 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.58"
 			(at 94.615 94.615 0)
 			(effects
 				(font
@@ -2131,16 +2112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price100 (EUR)" "0.42"
-			(at 94.615 94.615 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label" "V_{in}"
+		(property "Label" "V_{in}<12V"
 			(at 94.742 85.852 0)
 			(show_name yes)
 			(effects
