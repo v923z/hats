@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${TITLE}")
-		(date "2025-01-06")
+		(date "2025-01-26")
 		(rev "${REVISION}")
 		(company "${LINK}")
 		(comment 1 "${AUTHOR}")
@@ -1043,7 +1043,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 93.98) (xy 143.51 90.17)
+			(xy 143.51 92.71) (xy 143.51 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1113,7 +1113,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 99.06) (xy 143.51 100.33)
+			(xy 143.51 97.79) (xy 143.51 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1144,7 +1144,6 @@
 	(hierarchical_label "5V"
 		(shape output)
 		(at 238.125 139.065 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1156,7 +1155,6 @@
 	(hierarchical_label "V_{in}"
 		(shape output)
 		(at 238.125 135.255 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1191,7 +1189,6 @@
 	(hierarchical_label "3V3"
 		(shape output)
 		(at 238.125 142.875 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1496,7 +1493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 169.545 95.25 0)
 			(effects
 				(font
@@ -1505,7 +1502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 169.545 95.25 0)
 			(effects
 				(font
@@ -1514,7 +1511,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X7R104K50NT"
 			(at 169.545 95.25 0)
 			(effects
 				(font
@@ -1523,7 +1520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X7R104K50NT/18151094"
 			(at 169.545 95.25 0)
 			(effects
 				(font
@@ -1652,7 +1649,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 143.51 96.52 0)
+		(at 143.51 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1661,7 +1658,7 @@
 		(fields_autoplaced yes)
 		(uuid "bd56e247-7509-462a-9a81-7ee39bb844db")
 		(property "Reference" "C503"
-			(at 146.685 94.7038 0)
+			(at 146.685 93.4338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1670,7 +1667,7 @@
 			)
 		)
 		(property "Value" "100uF"
-			(at 146.685 97.2438 0)
+			(at 146.685 95.9738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1679,7 +1676,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_Elec_5x5.8"
-			(at 143.51 96.52 0)
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1687,8 +1684,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 143.51 96.52 0)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/PXGRA-e.PDF"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1696,8 +1693,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, small symbol"
-			(at 143.51 96.52 0)
+		(property "Description" "100 µF 16 V Aluminum - Polymer Capacitors Radial, Can - SMD 27mOhm 15000 Hrs @ 105°C"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1705,8 +1702,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 143.51 96.52 0)
+		(property "MPN" "APXG160ARA101ME61G"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1714,8 +1711,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
-			(at 143.51 96.52 0)
+		(property "Digikey" "https://www.digikey.de/en/products/detail/chemi-con/APXG160ARA101ME61G/3983370"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1724,7 +1721,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 143.51 96.52 0)
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1732,8 +1729,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" ""
-			(at 143.51 96.52 0)
+		(property "Voltage" "16V"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1741,8 +1738,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
-			(at 143.51 96.52 0)
+		(property "Tolerance" "20%"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1750,8 +1747,8 @@
 				(hide yes)
 			)
 		)
-		(property "Price" ""
-			(at 143.51 96.52 0)
+		(property "Price" "0.6"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1940,7 +1937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 156.845 95.25 0)
 			(effects
 				(font
@@ -1949,7 +1946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10 µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"
 			(at 156.845 95.25 0)
 			(effects
 				(font
@@ -1958,7 +1955,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X5R106M10NT"
 			(at 156.845 95.25 0)
 			(effects
 				(font
@@ -1967,7 +1964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X5R106M10NT/18151101"
 			(at 156.845 95.25 0)
 			(effects
 				(font
@@ -1985,7 +1982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" ""
+		(property "Voltage" "6"
 			(at 156.845 95.25 0)
 			(effects
 				(font
@@ -1994,7 +1991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "20%"
 			(at 156.845 95.25 0)
 			(effects
 				(font

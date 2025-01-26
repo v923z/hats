@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${TITLE}")
-		(date "2025-01-06")
+		(date "2025-01-26")
 		(rev "${REVISION}")
 		(company "${LINK}")
 		(comment 1 "${AUTHOR}")
@@ -5057,7 +5057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 263.525 45.085 0)
 			(effects
 				(font
@@ -5066,7 +5066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 263.525 45.085 0)
 			(effects
 				(font
@@ -5075,7 +5075,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X7R104K50NT"
 			(at 263.525 45.085 0)
 			(effects
 				(font
@@ -5084,7 +5084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X7R104K50NT/18151094"
 			(at 263.525 45.085 0)
 			(effects
 				(font

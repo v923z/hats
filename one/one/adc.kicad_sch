@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${TITLE}")
-		(date "2025-01-06")
+		(date "2025-01-26")
 		(rev "${REVISION}")
 		(company "${LINK}")
 		(comment 1 "${AUTHOR}")
@@ -2345,7 +2345,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "BLM18KG121TN1D"
 			(at 226.6442 58.42 90)
 			(effects
 				(font
@@ -2362,7 +2362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.murata.com/products/productdata/8796738650142/ENFA0003.pdf"
 			(at 226.695 62.865 0)
 			(effects
 				(font
@@ -2371,7 +2371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "120 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 3A 30mOhm"
 			(at 226.695 62.865 0)
 			(effects
 				(font
@@ -2380,7 +2380,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "BLM18KG121TN1D"
 			(at 226.695 62.865 90)
 			(effects
 				(font
@@ -2389,7 +2389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/murata-electronics/BLM18KG121TN1D/1982762"
 			(at 226.695 62.865 90)
 			(effects
 				(font
@@ -2514,7 +2514,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "BLM18KG121TN1D"
 			(at 52.1208 43.815 90)
 			(effects
 				(font
@@ -2531,7 +2531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.murata.com/products/productdata/8796738650142/ENFA0003.pdf"
 			(at 52.07 48.26 0)
 			(effects
 				(font
@@ -2540,7 +2540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "120 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 3A 30mOhm"
 			(at 52.07 48.26 0)
 			(effects
 				(font
@@ -2549,7 +2549,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "BLM18KG121TN1D"
 			(at 52.07 48.26 90)
 			(effects
 				(font
@@ -2558,7 +2558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/murata-electronics/BLM18KG121TN1D/1982762"
 			(at 52.07 48.26 90)
 			(effects
 				(font
@@ -2766,7 +2766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tla2518.pdf"
 			(at 175.895 131.445 0)
 			(effects
 				(font
@@ -3355,7 +3355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 120.015 53.975 0)
 			(effects
 				(font
@@ -3364,7 +3364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 120.015 53.975 0)
 			(effects
 				(font
@@ -3373,7 +3373,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X7R104K50NT"
 			(at 120.015 53.975 0)
 			(effects
 				(font
@@ -3382,7 +3382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X7R104K50NT/18151094"
 			(at 120.015 53.975 0)
 			(effects
 				(font
@@ -3478,7 +3478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 210.185 68.58 0)
 			(effects
 				(font
@@ -3487,7 +3487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 210.185 68.58 0)
 			(effects
 				(font
@@ -3496,7 +3496,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X7R104K50NT"
 			(at 210.185 68.58 0)
 			(effects
 				(font
@@ -3505,7 +3505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X7R104K50NT/18151094"
 			(at 210.185 68.58 0)
 			(effects
 				(font
@@ -3667,7 +3667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 90.17 67.945 0)
 			(effects
 				(font
@@ -3676,7 +3676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 90.17 67.945 0)
 			(effects
 				(font
@@ -3685,7 +3685,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X7R104K50NT"
 			(at 90.17 67.945 0)
 			(effects
 				(font
@@ -3694,7 +3694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X7R104K50NT/18151094"
 			(at 90.17 67.945 0)
 			(effects
 				(font
@@ -3857,7 +3857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 76.835 114.935 0)
 			(effects
 				(font
@@ -3866,7 +3866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 76.835 114.935 0)
 			(effects
 				(font
@@ -3875,7 +3875,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X7R104K50NT"
 			(at 76.835 114.935 0)
 			(effects
 				(font
@@ -3884,7 +3884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X7R104K50NT/18151094"
 			(at 76.835 114.935 0)
 			(effects
 				(font
@@ -4094,7 +4094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf"
 			(at 158.75 68.58 0)
 			(effects
 				(font
@@ -4103,7 +4103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 158.75 68.58 0)
 			(effects
 				(font
@@ -4112,7 +4112,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X7R104K50NT"
 			(at 158.75 68.58 0)
 			(effects
 				(font
@@ -4121,7 +4121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X7R104K50NT/18151094"
 			(at 158.75 68.58 0)
 			(effects
 				(font
@@ -4218,7 +4218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://calchip.com/wp-content/uploads/2024/02/gmc_series-1.pdf"
 			(at 204.47 112.395 0)
 			(effects
 				(font
@@ -4227,7 +4227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"
 			(at 204.47 112.395 0)
 			(effects
 				(font
@@ -4236,7 +4236,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GMC10X5R105K50NT"
 			(at 204.47 112.395 0)
 			(effects
 				(font
@@ -4245,7 +4245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/cal-chip-electronics-inc/GMC10X5R105K50NT/24883205"
 			(at 204.47 112.395 0)
 			(effects
 				(font

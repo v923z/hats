@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${TITLE}")
-		(date "2025-01-06")
+		(date "2025-01-26")
 		(rev "${REVISION}")
 		(company "${LINK}")
 		(comment 1 "${AUTHOR}")
@@ -5390,7 +5390,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x20_Odd_Even"
+		(property "Value" "NPTC202KFMS-RC"
 			(at 129.54 66.675 0)
 			(effects
 				(font
@@ -5407,7 +5407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 128.27 93.345 0)
 			(effects
 				(font
@@ -5416,7 +5416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "40 Position Header Connector 0.100\" (2.54mm) Surface Mount Tin"
 			(at 128.27 93.345 0)
 			(effects
 				(font
@@ -5425,7 +5425,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "NPTC202KFMS-RC"
 			(at 128.27 93.345 0)
 			(effects
 				(font
@@ -5434,7 +5434,16 @@
 				(hide yes)
 			)
 		)
-		(property "Price" ""
+		(property "Digikey" "https://www.digikey.de/en/products/detail/sullins-connector-solutions/nptc202kfms-rc/776149"
+			(at 128.27 93.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "3.2"
 			(at 128.27 93.345 0)
 			(effects
 				(font
